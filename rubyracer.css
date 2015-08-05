@@ -4,11 +4,11 @@
   width: 20px;
 }
 
-.racer_table #player1_box td.active {
+.racer_table #player1_strip td.active {
   background-color: black;
 }
 
 
-.racer_table #player2_box td.active {
+.racer_table #player2_strip td.active {
   background-color: red;
 }
